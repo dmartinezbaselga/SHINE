@@ -1,8 +1,5 @@
 # SHINE: Social Homology Identification for Navigation in Crowded Environments
 
-
-# Improving robot navigation in crowded environments using intrinsic rewards (ICRA 2023)
-
 # [Paper](https://arxiv.org/pdf/2404.16705) || [Video](https://www.youtube.com/watch?v=pOzRyWBk7MI)
 
 ## Abstract
