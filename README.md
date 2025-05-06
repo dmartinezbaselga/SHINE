@@ -1,5 +1,7 @@
 # SHINE: Social Homology Identification for Navigation in Crowded Environments
 
+This repo provides the code of the work for out paper SHINE: Social Homology Identification for Navigation in Crowded Environments, published in the International Journal of Robotics Research (IJRR) in 2025.
+
 # [Paper](https://arxiv.org/pdf/2404.16705) || [Video](https://www.youtube.com/watch?v=pOzRyWBk7MI)
 
 ## Abstract
