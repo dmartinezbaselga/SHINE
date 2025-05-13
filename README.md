@@ -9,7 +9,7 @@ Navigating mobile robots in social environments remains a challenging task due t
 
 
 ## Code
-To be done...
+To be uploaded...
 
 ## Citation
 If you use this work in your own research or wish to refer to the paper's results, please use the following BibTeX entries.
@@ -20,3 +20,7 @@ If you use this work in your own research or wish to refer to the paper's result
   journal={arXiv preprint arXiv:2404.16705},
   year={2024}
 }
+```
+## Bug Reports and Support
+For issues related to the work, please contact:
+- Diego Martinez-Baselga: `diegomartinez@unizar.es`
