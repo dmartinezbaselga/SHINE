@@ -4,12 +4,11 @@ This repo provides the code of the work for out paper SHINE: Social Homology Ide
 
 # [Paper](https://arxiv.org/pdf/2404.16705) || [Video](https://www.youtube.com/watch?v=pOzRyWBk7MI)
 
+## Poster
+<img src="doc/poster_borders.png" width="1000" />
+
 ## Abstract
 Navigating mobile robots in social environments remains a challenging task due to the intricacies of human-robot interactions. Most of the motion planners designed for crowded and dynamic environments focus on choosing the best velocity to reach the goal while avoiding collisions, but do not explicitly consider the high-level navigation behavior (avoiding through the left or right side, letting others pass or passing before others, etc.). In this work, we present a novel motion planner that incorporates topology distinct paths representing diverse navigation strategies around humans. The planner selects the topology class that imitates human behavior the best using a deep neural network model trained on real-world human motion data, ensuring socially intelligent and contextually aware navigation. Our system refines the chosen path through an optimization-based local planner in real time, ensuring seamless adherence to desired social behaviors. In this way, we decouple perception and local planning from the decision-making process. We evaluate the prediction accuracy of the network with real-world data. In addition, we assess the navigation capabilities in both simulation and a real-world platform, comparing it with other state-of-the-art planners. We demonstrate that our planner exhibits socially desirable behaviors and shows a smooth and remarkable performance.
-
-<p align="center">
-  <img src="doc/teaser.png" alt="Teaser" width="400">
-</p>
 
 ## Installation ##
 
